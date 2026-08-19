@@ -70,6 +70,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [switchboard-skill](https://github.com/sendaifun/skills/tree/main/skills/switchboard) - AI coding skill for Switchboard Oracle covering permissionless price feeds, on-demand data, VRF randomness, and Surge streaming on Solana.
 - [bitget-wallet-skill](https://github.com/bitget-wallet-ai-lab/bitget-wallet-skill) - AI agent skill for Bitget Wallet covering multi-chain token swaps, cross-chain bridges, gasless transactions, security audits, and real-time market data across 7 chains including Solana.
 - [orquestra](https://github.com/berkayoztunc/orquestra) - Open-source platform that instantly converts Solana Anchor and Codama IDLs into hosted REST APIs, AI-ready documentation, and public MCP server (`https://api.orquestra.dev/mcp`) for AI agents and developers.
+- [x402 Digital Vending Machine](https://x402digitalvendingmachine.store) - Solana x402 v2 text-cleanup and whitespace-normalization microservice with 0.002 USDC per call, discoverable metadata (`x402.json`, `llms.txt`), and live on-chain USDC settlement to `E2PxHWFSwzt6a3osZRQeT16tsb7BPLfXEMuDfjnZuhFD`.
 
 ## AI Agents
 
